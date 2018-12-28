@@ -13,12 +13,13 @@ fmt = '%Y-%m-%d %H:%M:%S %Z%z'
 # define eastern timezone
 eastern = timezone('US/Eastern')
 
+# Enter API key and info below
 config = {
-  "apiKey": "AIzaSyBNTJP9v8ruiMEb87SY7UhAph2LZ0P_wJE",
-  "authDomain": "alertify-34e6b.firebaseapp.com",
-  "databaseURL": "https://alertify-34e6b.firebaseio.com",
-  "storageBucket": "alertify-34e6b.appspot.com",
-  "serviceAccount": "alertify-34e6b-firebase-adminsdk-wvm0z-d5f5adf7b2.json"
+  "apiKey": "",
+  "authDomain": "",
+  "databaseURL": "",
+  "storageBucket": "",
+  "serviceAccount": ""
 }
 
 # from twilio.twiml.messaging_response import MessagingResponse, Message
